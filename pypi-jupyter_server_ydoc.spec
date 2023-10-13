@@ -5,7 +5,7 @@
 #
 Name     : pypi-jupyter_server_ydoc
 Version  : 0.8.0
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/2b/a5/a2f366d772d7da8bc36f67eadd08707610512685e266305f5e59fe317c26/jupyter_server_ydoc-0.8.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/2b/a5/a2f366d772d7da8bc36f67eadd08707610512685e266305f5e59fe317c26/jupyter_server_ydoc-0.8.0.tar.gz
 Summary  : A Jupyter Server Extension Providing Y Documents.
